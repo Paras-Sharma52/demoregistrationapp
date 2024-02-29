@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800299783869",
+    "project_id": "logscreen-cdf72",
+    "storage_bucket": "logscreen-cdf72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800299783869:android:43ab201a19d67f962b89d4",
+        "android_client_info": {
+          "package_name": "com.example.demoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPi0C8NtNlwNRhWordBMjV14aJTkSq8Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
